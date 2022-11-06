@@ -9,7 +9,7 @@ Rusty Bargain used car sales service is developing an app to attract new custome
 <h2>Project instructions</h2>
 <ol><li>Download and look at the data</li>
 <li>Train different models with various hyperparameters (You should make at least two different models, but more is better. Remember, various implementations of gradient boosting don't count as different models.) The main point of this step is to compare gradient boosting methods with random forest, decision tree, and linear regression.</li>
-<li>Analyze the speed and quality of the models/ol></li>
+<li>Analyze the speed and quality of the models</ol></li>
 
 <h2>Notes:</h2>
 <ul><li>Use the RMSE metric to evaluate the models</li>
